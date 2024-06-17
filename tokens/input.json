@@ -1,4 +1,30 @@
 {
+  "12356": {
+    "x": {
+      "value": 0,
+      "type": "x"
+    },
+    "y": {
+      "value": 0,
+      "type": "y"
+    },
+    "blur": {
+      "value": 0,
+      "type": "blur"
+    },
+    "spread": {
+      "value": 0,
+      "type": "spread"
+    },
+    "color": {
+      "value": "#00034a",
+      "type": "color"
+    },
+    "type": {
+      "value": "innerShadow",
+      "type": "type"
+    }
+  },
   "button": {
     "primary": {
       "background": {
@@ -267,6 +293,32 @@
     "default": {
       "value": "#0000004d",
       "type": "color"
+    }
+  },
+  "erta1": {
+    "x": {
+      "value": 0,
+      "type": "x"
+    },
+    "y": {
+      "value": 0,
+      "type": "y"
+    },
+    "blur": {
+      "value": 0,
+      "type": "blur"
+    },
+    "spread": {
+      "value": 0,
+      "type": "spread"
+    },
+    "color": {
+      "value": "#0b0f00",
+      "type": "color"
+    },
+    "type": {
+      "value": "dropShadow",
+      "type": "type"
     }
   },
   "dimension": {
@@ -851,6 +903,32 @@
     "xs": {
       "value": 10.4,
       "type": "fontSizes"
+    }
+  },
+  "bopx": {
+    "x": {
+      "value": 0,
+      "type": "x"
+    },
+    "y": {
+      "value": 0,
+      "type": "y"
+    },
+    "blur": {
+      "value": 0,
+      "type": "blur"
+    },
+    "spread": {
+      "value": 0,
+      "type": "spread"
+    },
+    "color": {
+      "value": "#100032",
+      "type": "color"
+    },
+    "type": {
+      "value": "dropShadow",
+      "type": "type"
     }
   },
   "tokenSetOrder": {
