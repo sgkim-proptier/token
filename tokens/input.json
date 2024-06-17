@@ -1,15 +1,29 @@
 {
   "12356": {
-    "value": {
-      "x": 0,
-      "y": 0,
-      "blur": 0,
-      "spread": 0,
-      "color": "#00034a",
-      "type": "innerShadow"
+    "x": {
+      "value": 0,
+      "type": "x"
     },
-    "type": "boxShadow",
-    "description": "wed"
+    "y": {
+      "value": 0,
+      "type": "y"
+    },
+    "blur": {
+      "value": 0,
+      "type": "blur"
+    },
+    "spread": {
+      "value": 0,
+      "type": "spread"
+    },
+    "color": {
+      "value": "#00034a",
+      "type": "color"
+    },
+    "type": {
+      "value": "innerShadow",
+      "type": "type"
+    }
   },
   "button": {
     "primary": {
@@ -47,25 +61,58 @@
   },
   "boxShadow": {
     "default": {
-      "value": [
-        {
-          "x": 5,
-          "y": 5,
-          "spread": 3,
-          "color": "#00000026",
-          "blur": 5,
-          "type": "dropShadow"
+      "0": {
+        "x": {
+          "value": 5,
+          "type": "x"
         },
-        {
-          "x": 4,
-          "y": 4,
-          "spread": 6,
-          "color": "#00000033",
-          "blur": 5,
-          "type": "innerShadow"
+        "y": {
+          "value": 5,
+          "type": "y"
+        },
+        "spread": {
+          "value": 3,
+          "type": "spread"
+        },
+        "color": {
+          "value": "#00000026",
+          "type": "color"
+        },
+        "blur": {
+          "value": 5,
+          "type": "blur"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
         }
-      ],
-      "type": "boxShadow"
+      },
+      "1": {
+        "x": {
+          "value": 4,
+          "type": "x"
+        },
+        "y": {
+          "value": 4,
+          "type": "y"
+        },
+        "spread": {
+          "value": 6,
+          "type": "spread"
+        },
+        "color": {
+          "value": "#00000033",
+          "type": "color"
+        },
+        "blur": {
+          "value": 5,
+          "type": "blur"
+        },
+        "type": {
+          "value": "innerShadow",
+          "type": "type"
+        }
+      }
     }
   },
   "typography": {
@@ -177,16 +224,30 @@
     }
   },
   "erta1": {
-    "value": {
-      "x": 0,
-      "y": 0,
-      "blur": 0,
-      "spread": 0,
-      "color": "#0b0f00",
-      "type": "dropShadow"
+    "x": {
+      "value": 0,
+      "type": "x"
     },
-    "type": "boxShadow",
-    "description": "as"
+    "y": {
+      "value": 0,
+      "type": "y"
+    },
+    "blur": {
+      "value": 0,
+      "type": "blur"
+    },
+    "spread": {
+      "value": 0,
+      "type": "spread"
+    },
+    "color": {
+      "value": "#0b0f00",
+      "type": "color"
+    },
+    "type": {
+      "value": "dropShadow",
+      "type": "type"
+    }
   },
   "dimension": {
     "scale": {
@@ -773,15 +834,30 @@
     }
   },
   "bopx": {
-    "value": {
-      "x": 0,
-      "y": 0,
-      "blur": 0,
-      "spread": 0,
-      "color": "#100032",
-      "type": "dropShadow"
+    "x": {
+      "value": 0,
+      "type": "x"
     },
-    "type": "boxShadow"
+    "y": {
+      "value": 0,
+      "type": "y"
+    },
+    "blur": {
+      "value": 0,
+      "type": "blur"
+    },
+    "spread": {
+      "value": 0,
+      "type": "spread"
+    },
+    "color": {
+      "value": "#100032",
+      "type": "color"
+    },
+    "type": {
+      "value": "dropShadow",
+      "type": "type"
+    }
   },
   "tokenSetOrder": {
     "0": {
