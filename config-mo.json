@@ -1,11 +1,11 @@
 {
-  "source": ["tokens/**/*.json"],
+  "source": ["tokens/mo.json"],
   "platforms": {
     "scss": {
       "transformGroup": "scss",
       "files": [
         {
-          "destination": "scss/variables.scss",
+          "destination": "scss/mo.scss",
           "format": "scss/variables"
         }
       ]

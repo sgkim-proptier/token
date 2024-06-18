@@ -1,0 +1,14 @@
+{
+  "source": ["tokens/pc.json"],
+  "platforms": {
+    "scss": {
+      "transformGroup": "scss",
+      "files": [
+        {
+          "destination": "scss/pc.scss",
+          "format": "scss/variables"
+        }
+      ]
+    }
+  }
+}
