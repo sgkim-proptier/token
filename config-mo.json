@@ -9,6 +9,15 @@
           "format": "scss/variables"
         }
       ]
+    },
+    "css": {
+      "transformGroup": "css",
+      "files": [
+        {
+          "destination": "css/mo.css",
+          "format": "css/variables"
+        }
+      ]
     }
   }
 }
