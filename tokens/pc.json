@@ -661,116 +661,6 @@
       "type": "color"
     }
   },
-  "Padding": {
-    "Header-Body": {
-      "value": "2.5rem",
-      "type": "dimension",
-      "parent": "apds/pc",
-      "description": ""
-    },
-    "Contents-Contents": {
-      "value": "3.75rem",
-      "type": "dimension",
-      "parent": "apds/pc",
-      "description": ""
-    },
-    "Body-Footer": {
-      "value": "5rem",
-      "type": "dimension",
-      "parent": "apds/pc",
-      "description": ""
-    },
-    "LNB-Contents": {
-      "value": "3.75rem",
-      "type": "dimension",
-      "parent": "apds/pc",
-      "description": ""
-    }
-  },
-  "layout": {
-    "Grids": {
-      "Margin": {
-        "value": "1.25rem",
-        "type": "dimension",
-        "parent": "apds/pc",
-        "description": ""
-      },
-      "Gutter": {
-        "value": "1.5rem",
-        "type": "dimension",
-        "parent": "apds/pc",
-        "description": ""
-      },
-      "Count": {
-        "value": "0.75rem",
-        "type": "dimension",
-        "parent": "apds/pc",
-        "description": ""
-      }
-    },
-    "Responsive": {
-      "Frame": {
-        "value": "120rem",
-        "type": "dimension",
-        "parent": "apds/pc",
-        "description": ""
-      },
-      "Container": {
-        "value": "100rem",
-        "type": "dimension",
-        "parent": "apds/pc",
-        "description": ""
-      },
-      "LNB": {
-        "value": "16.25rem",
-        "type": "dimension",
-        "parent": "apds/pc",
-        "description": ""
-      }
-    }
-  },
-  "radius": {
-    "4": {
-      "value": 4,
-      "type": "borderRadius",
-      "parent": "apds/pc"
-    },
-    "8": {
-      "value": 8,
-      "type": "borderRadius",
-      "parent": "apds/pc"
-    },
-    "12": {
-      "value": 12,
-      "type": "borderRadius",
-      "parent": "apds/pc"
-    },
-    "16": {
-      "value": 16,
-      "type": "borderRadius",
-      "parent": "apds/pc"
-    },
-    "24": {
-      "value": 24,
-      "type": "borderRadius",
-      "parent": "apds/pc"
-    },
-    "32": {
-      "value": 32,
-      "type": "borderRadius",
-      "parent": "apds/pc"
-    },
-    "40": {
-      "value": 40,
-      "type": "borderRadius",
-      "parent": "apds/pc"
-    },
-    "circle": {
-      "value": "100%",
-      "type": "borderRadius",
-      "parent": "apds/pc"
-    }
-  },
   "shadow": {
     "sm": {
       "0": {
@@ -1791,6 +1681,74 @@
           "type": "fontWeights"
         },
         "lineHeight": {
+          "value": "1.625rem",
+          "type": "lineHeights"
+        },
+        "fontSize": {
+          "value": "1.125rem",
+          "type": "fontSizes"
+        },
+        "letterSpacing": {
+          "value": "-1%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        }
+      },
+      "m3": {
+        "fontFamily": {
+          "value": "Pretendard",
+          "type": "fontFamilies"
+        },
+        "fontWeight": {
+          "value": "Medium",
+          "type": "fontWeights"
+        },
+        "lineHeight": {
+          "value": "1.625rem",
+          "type": "lineHeights"
+        },
+        "fontSize": {
+          "value": "1.125rem",
+          "type": "fontSizes"
+        },
+        "letterSpacing": {
+          "value": "-1%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        }
+      },
+      "b4": {
+        "fontFamily": {
+          "value": "Pretendard",
+          "type": "fontFamilies"
+        },
+        "fontWeight": {
+          "value": "Bold",
+          "type": "fontWeights"
+        },
+        "lineHeight": {
           "value": "1.5rem",
           "type": "lineHeights"
         },
@@ -1815,7 +1773,7 @@
           "type": "textDecoration"
         }
       },
-      "m3": {
+      "m4": {
         "fontFamily": {
           "value": "Pretendard",
           "type": "fontFamilies"
@@ -1861,7 +1819,7 @@
           "type": "fontWeights"
         },
         "lineHeight": {
-          "value": "1.375rem",
+          "value": "1.625rem",
           "type": "lineHeights"
         },
         "fontSize": {
