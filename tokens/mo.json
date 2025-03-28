@@ -137,6 +137,68 @@
           "description": "Black /  블랙"
         }
       },
+      "navy": {
+        "50": {
+          "value": "#F1F1F9",
+          "type": "color",
+          "parent": "apds/pc",
+          "description": ""
+        },
+        "100": {
+          "value": "#D3D5ED",
+          "type": "color",
+          "parent": "apds/pc",
+          "description": ""
+        },
+        "200": {
+          "value": "#A7ABDA",
+          "type": "color",
+          "parent": "apds/pc",
+          "description": ""
+        },
+        "300": {
+          "value": "#7B82C8",
+          "type": "color",
+          "parent": "apds/pc",
+          "description": ""
+        },
+        "400": {
+          "value": "#4F58B5",
+          "type": "color",
+          "parent": "apds/pc",
+          "description": ""
+        },
+        "500": {
+          "value": "#232EA3",
+          "type": "color",
+          "parent": "apds/pc",
+          "description": ""
+        },
+        "600": {
+          "value": "#1C2582",
+          "type": "color",
+          "parent": "apds/pc",
+          "description": ""
+        },
+        "700": {
+          "value": "#151C62",
+          "type": "color",
+          "parent": "apds/pc",
+          "description": ""
+        },
+        "800": {
+          "value": "#0E1241",
+          "type": "color",
+          "parent": "apds/pc",
+          "description": ""
+        },
+        "900": {
+          "value": "#070921",
+          "type": "color",
+          "parent": "apds/pc",
+          "description": ""
+        }
+      },
       "blue": {
         "50": {
           "value": "#f0f6ff",
