@@ -918,32 +918,6 @@
       "value": "20rem",
       "type": "spacing",
       "parent": "apds/mo"
-    },
-    "padding": {
-      "Header-Body": {
-        "value": "2rem",
-        "type": "dimension",
-        "parent": "apds/mo",
-        "description": ""
-      },
-      "Contents-Contents": {
-        "value": "2.5rem",
-        "type": "dimension",
-        "parent": "apds/mo",
-        "description": ""
-      },
-      "Body-Footer": {
-        "value": "2.5rem",
-        "type": "dimension",
-        "parent": "apds/mo",
-        "description": ""
-      },
-      "LNB-Contents": {
-        "value": "0rem",
-        "type": "dimension",
-        "parent": "apds/mo",
-        "description": ""
-      }
     }
   },
   "layout": {
@@ -1505,16 +1479,16 @@
         "value": "Bold",
         "type": "fontWeights"
       },
+      "sb": {
+        "value": "SemiBold",
+        "type": "fontWeights"
+      },
       "m": {
         "value": "Medium",
         "type": "fontWeights"
       },
       "r": {
         "value": "Regular",
-        "type": "fontWeights"
-      },
-      "sb": {
-        "value": "SemiBold",
         "type": "fontWeights"
       }
     },
@@ -1978,6 +1952,74 @@
         },
         "fontSize": {
           "value": "1.125rem",
+          "type": "fontSizes"
+        },
+        "letterSpacing": {
+          "value": "-1%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        }
+      },
+      "b4": {
+        "fontFamily": {
+          "value": "Pretendard",
+          "type": "fontFamilies"
+        },
+        "fontWeight": {
+          "value": "Bold",
+          "type": "fontWeights"
+        },
+        "lineHeight": {
+          "value": "1.5rem",
+          "type": "lineHeights"
+        },
+        "fontSize": {
+          "value": "1rem",
+          "type": "fontSizes"
+        },
+        "letterSpacing": {
+          "value": "-1%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        }
+      },
+      "m4": {
+        "fontFamily": {
+          "value": "Pretendard",
+          "type": "fontFamilies"
+        },
+        "fontWeight": {
+          "value": "Medium",
+          "type": "fontWeights"
+        },
+        "lineHeight": {
+          "value": "1.5rem",
+          "type": "lineHeights"
+        },
+        "fontSize": {
+          "value": "1rem",
           "type": "fontSizes"
         },
         "letterSpacing": {
