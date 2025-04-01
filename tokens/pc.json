@@ -69,6 +69,11 @@
         "parent": "apds/pc",
         "description": "White / 화이트"
       },
+      "25": {
+        "value": "#F9F9F9",
+        "type": "color",
+        "parent": "apds/pc"
+      },
       "50": {
         "value": "#f7f7f7",
         "type": "color",

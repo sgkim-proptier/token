@@ -70,6 +70,10 @@
           "parent": "apds/mo/common",
           "description": "White / 화이트"
         },
+        "25": {
+          "value": "#F9F9F9",
+          "type": "color"
+        },
         "50": {
           "value": "#f5f5f5",
           "type": "color",
